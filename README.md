@@ -31,9 +31,6 @@
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/hunter-holland-243392142/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunteraholland)](https://github.com/anuraghazra/github-readme-stats)
