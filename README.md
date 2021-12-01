@@ -1,10 +1,10 @@
 ## Hey! My name's Hunter! 👋
 
 
-### I'm a fourth-year student at the University of Cincinnati
+### I'm a fifth-year student at the University of Cincinnati
 
-- 🔭 I’m currently working as a Cloud Engineer Co-op at 84.51°
-- 🌱 I’m currently learning React
+- 🔭 I'm an incoming Software Engineer at 84.51°
+- 🌱 I’m currently learning FastAPI
 - 👯 I’m looking to strengthen my development skills
 - ⚡ Fun fact: I am a huge Cleveland sports fan
 
